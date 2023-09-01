@@ -2,4 +2,5 @@ vendor
 composer.lock
 .directory
 *.index
+.idea
  

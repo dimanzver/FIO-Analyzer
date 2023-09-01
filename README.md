@@ -10,7 +10,7 @@
 ```json
 {
     "require": {
-        "mihanentalpo/fio-analyzer": "*"
+        "dimanzver/fio-analyzer": "*"
     }
 }
 ```
